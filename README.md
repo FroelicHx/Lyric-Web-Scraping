@@ -1,5 +1,5 @@
 <p align="center">
-<img src="images/repository/BeautifulSoup.png">
+<img src="images/repository/BeautifulSoup.png" width="100%">
 </p>
 
 ## :clipboard: Index
@@ -14,7 +14,7 @@
 ## :computer: Preview
 
 <p align="center">
-    <img src="images/repository/preview.gif" width="700">
+    <img src="images/repository/preview.gif" width="100%">
 </p>
 
 ---
