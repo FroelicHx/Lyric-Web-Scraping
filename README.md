@@ -47,7 +47,7 @@ git clone https://github.com/FroelichTech/Lyric-Web-Scraping.git
 # Enter directory
 cd Lyric-Web-Scraping
 
-# Run code in a terminal.
+# Run the code in a terminal.
 py Lyric.py
 
 ```
